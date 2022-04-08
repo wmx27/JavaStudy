@@ -1,0 +1,2 @@
+Ellipse[centerX=485.0, centerY=727.0, radiusX=212.0, radiusY=121.5, fill=0x008000ff, stroke=0xffc0cbff, strokeWidth=6.0]
+Rectangle[x=346.0, y=525.0, width=304.5, height=102.0, fill=0x008000ff, stroke=0xffc0cbff, strokeWidth=6.0]
